@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="cq7Y76" name="bib_EQ3" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              companyName="Cyax Records" companyWebsite="www.cyaxrecords.com">
   <MAINGROUP id="KJp3s7" name="bib_EQ3">
     <GROUP id="{47B265B6-7430-6DE1-48BD-F1A0B68A9BDE}" name="Source">
       <FILE id="It6iMP" name="PluginProcessor.cpp" compile="1" resource="0"
